@@ -29,12 +29,32 @@
 
 ## 📸 استعراض المشروع
 
-| | |
-| :---: | :---: |
-| ![Screenshot 1](img/%281%29.png) | ![Screenshot 2](img/%282%29.png) |
-| ![Screenshot 3](img/%283%29.png) | ![Screenshot 4](img/%284%29.png) |
-| ![Screenshot 5](img/%285%29.png) | ![Screenshot 6](img/%286%29.png) |
-| ![Screenshot 7](img/%287%29.png) | ![Screenshot 8](img/%288%29.png) |
-| ![Screenshot 9](img/%289%29.png) | ![Screenshot 10](img/%2810%29.png) |
-| ![Screenshot 11](img/%2811%29.png) | ![Screenshot 12](img/%2812%29.png) |
-| ![Screenshot 13](img/%2813%29.png) | |
+<table width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="img/1.png" alt="Screenshot 1"></td>
+    <td align="center" width="50%"><img src="img/2.png" alt="Screenshot 2"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/3.png" alt="Screenshot 3"></td>
+    <td align="center"><img src="img/4.png" alt="Screenshot 4"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/5.png" alt="Screenshot 5"></td>
+    <td align="center"><img src="img/6.png" alt="Screenshot 6"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/7.png" alt="Screenshot 7"></td>
+    <td align="center"><img src="img/8.png" alt="Screenshot 8"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/9.png" alt="Screenshot 9"></td>
+    <td align="center"><img src="img/10.png" alt="Screenshot 10"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/11.png" alt="Screenshot 11"></td>
+    <td align="center"><img src="img/12.png" alt="Screenshot 12"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="img/13.png" alt="Screenshot 13" width="50%"></td>
+  </tr>
+</table>
