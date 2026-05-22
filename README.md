@@ -12,7 +12,7 @@
 
 ### 📊 لوحة تحكم تفاعلية (Smart Dashboard)
 * **مراقبة التخزين الفورية:** واجهة رسومية واضحة تعرض مساحة التخزين المستخدمة والمتبقية على الأقراص لحظة بلحظة.
-* **التحليل البياني:** دعم الرسوم البيانية التفاعلية (Graphs) لتحليل حجم وتوزيع المحتوى ونسبته بدقة داخل كل مجلد لفهم استهلاك المساحة.
+* **التحليل البياني:** دعم الرسوم البيانية التفاعلية (Graphs) تحليل حجم وتوزيع المحتوى ونسبته بدقة داخل كل مجلد لفهم استهلاك المساحة.
 
 ### 🔒 نظام متقدم لإدارة المستخدمين والأمن الداخلي
 * **توزيع وتحجيم الصلاحيات:** إمكانية إنشاء حسابات مستقلة (مثل حسابات أفراد العائلة مخصصة للمشاهدة فقط، مقابل حسابات مشرفين بصلاحيات كاملة).
@@ -23,37 +23,38 @@
 ### ⚡ تخزين محلي معزول (Privacy & Performance)
 * **أداء فائق وبدون تقطيع:** عزل كامل للبيانات عن الإنترنت الخارجي لحماية الخصوصية. تصفح وتشغيل مقاطع الـ 4K أو الصور ذات الدقة العالية يتم بسرعة فائقة دون أي انتظار (Zero Buffering)، حيث تعتمد السرعة كليًا على كفاءة شبكتك الداخلية.
 
-تنويه تم رفع قاعدة بيانات جاهزة للاستخدام مباشرة؛ من خلال استيرادها عن طريق MySQL Server وتحمل مستخدم Admin افتراضي يمكن تسجيل الدخول اليه مباشرة (admi:admin). 
+> 📝 **تنويه:** تم رفع قاعدة بيانات جاهزة للاستخدام مباشرة؛ يمكن استيرادها عن طريق MySQL Server وتحتوي على مستخدم Admin افتراضي يمكن تسجيل الدخول إليه مباشرة ببيانات التدقيق التالية: `admin:admin`.
+
 ---
 
 ## 📸 استعراض المشروع
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%"><img src="/img/(1).png" alt="Screenshot 1"></td>
-    <td align="center" width="50%"><img src="/img/(2).png" alt="Screenshot 2"></td>
+    <td align="center" width="50%"><img src="./img/(1).png" alt="Screenshot 1"></td>
+    <td align="center" width="50%"><img src="./img/(2).png" alt="Screenshot 2"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/img/(3).png" alt="Screenshot 3"></td>
-    <td align="center"><img src="/img/(4).png" alt="Screenshot 4"></td>
+    <td align="center"><img src="./img/(3).png" alt="Screenshot 3"></td>
+    <td align="center"><img src="./img/(4).png" alt="Screenshot 4"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/img/(5).png" alt="Screenshot 5"></td>
-    <td align="center"><img src="/img/(6).png" alt="Screenshot 6"></td>
+    <td align="center"><img src="./img/(5).png" alt="Screenshot 5"></td>
+    <td align="center"><img src="./img/(6).png" alt="Screenshot 6"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/img/(7).png" alt="Screenshot 7"></td>
-    <td align="center"><img src="/img/(8).png" alt="Screenshot 8"></td>
+    <td align="center"><img src="./img/(7).png" alt="Screenshot 7"></td>
+    <td align="center"><img src="./img/(8).png" alt="Screenshot 8"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/img/(9).png" alt="Screenshot 9"></td>
-    <td align="center"><img src="/img/(10).png" alt="Screenshot 10"></td>
+    <td align="center"><img src="./img/(9).png" alt="Screenshot 9"></td>
+    <td align="center"><img src="./img/(10).png" alt="Screenshot 10"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/img/(11).png" alt="Screenshot 11"></td>
-    <td align="center"><img src="/img/(12).png" alt="Screenshot 12"></td>
+    <td align="center"><img src="./img/(11).png" alt="Screenshot 11"></td>
+    <td align="center"><img src="./img/(12).png" alt="Screenshot 12"></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="/img/(13).png" alt="Screenshot 13" width="50%"></td>
+    <td align="center" colspan="2"><img src="./img/(13).png" alt="Screenshot 13" width="50%"></td>
   </tr>
 </table>
