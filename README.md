@@ -30,30 +30,30 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%"><img src="./img/(1).png" alt="Screenshot 1"></td>
-    <td align="center" width="50%"><img src="./img/(2).png" alt="Screenshot 2"></td>
+    <td align="center" width="50%"><img src="/img/(1).png" alt="Screenshot 1"></td>
+    <td align="center" width="50%"><img src="/img/(2).png" alt="Screenshot 2"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/(3).png" alt="Screenshot 3"></td>
-    <td align="center"><img src="./img/(4).png" alt="Screenshot 4"></td>
+    <td align="center"><img src="/img/(3).png" alt="Screenshot 3"></td>
+    <td align="center"><img src="/img/(4).png" alt="Screenshot 4"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/(5).png" alt="Screenshot 5"></td>
-    <td align="center"><img src="./img/(6).png" alt="Screenshot 6"></td>
+    <td align="center"><img src="/img/(5).png" alt="Screenshot 5"></td>
+    <td align="center"><img src="/img/(6).png" alt="Screenshot 6"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/(7).png" alt="Screenshot 7"></td>
-    <td align="center"><img src="./img/(8).png" alt="Screenshot 8"></td>
+    <td align="center"><img src="/img/(7).png" alt="Screenshot 7"></td>
+    <td align="center"><img src="/img/(8).png" alt="Screenshot 8"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/(9).png" alt="Screenshot 9"></td>
-    <td align="center"><img src="./img/(10).png" alt="Screenshot 10"></td>
+    <td align="center"><img src="/img/(9).png" alt="Screenshot 9"></td>
+    <td align="center"><img src="/img/(10).png" alt="Screenshot 10"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/(11).png" alt="Screenshot 11"></td>
-    <td align="center"><img src="./img/(12).png" alt="Screenshot 12"></td>
+    <td align="center"><img src="/img/(11).png" alt="Screenshot 11"></td>
+    <td align="center"><img src="/img/(12).png" alt="Screenshot 12"></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="./img/(13).png" alt="Screenshot 13" width="50%"></td>
+    <td align="center" colspan="2"><img src="/img/(13).png" alt="Screenshot 13" width="50%"></td>
   </tr>
 </table>
